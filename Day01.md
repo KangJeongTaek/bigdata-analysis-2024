@@ -23,13 +23,16 @@
         * 실습 자료 : https://github.com/Play-with-data/datasalon/tree/master
 
 - #### 데이터 분석 기초
-    - ##### Pandas(데이터 처리 라이브러리)
-    - ##### Numpy(수치해석, 계산용 라이브러리)
-    - ##### Excel,csv용 라이브러리(엑셀,csv,JSON 문서 데이터 로드, 저장 라이브러리)
-    - ##### Selenium(웹 크롤링 자동화 라이브러리)
-    - ##### BeautifulSoup(웹 데이터 정제 라이브러리)
-    - ##### Matplitlib(차트 표현 라이브러리)
-    - ##### Seaborn(시각화 라이브러리)
-    - ##### Folium(지도 시각화 라이브러리)
-    - ##### TensorFlow(머신러닝 라이브러리)
-    - ##### PyTorch(머신러닝,딥러닝 라이브러리)
+    - ##### 데이터 분석을 위한 라이브러리 학습
+        - ###### Pandas(데이터 처리 라이브러리)
+        - ###### Numpy(수치해석, 계산용 라이브러리)
+        - ###### openpyxl(Excel,csv,JSON용 라이브러리)
+        - ###### Selenium(웹 크롤링 자동화 라이브러리)
+        - ###### BeautifulSoup(웹 데이터 정제 라이브러리)
+        - ###### Matplitlib(차트 표현 라이브러리)
+        - ###### Seaborn(시각화 라이브러리)
+        - ###### Folium(지도 시각화 라이브러리)
+        - ###### TensorFlow(머신러닝 라이브러리)
+        - ###### PyTorch(머신러닝,딥러닝 라이브러리)
+
+    - #### Kaggle.com (데이터 분석 및 머신러닝에 대한 학습 플랫폼이자 경쟁할 수 있는 플랫폼)
