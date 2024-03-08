@@ -5,3 +5,31 @@
     - ##### 정의
         * 디지털 환경에서 발생하는 대규모의 데이터
         * 대량의 데이터를 수집, 저장, 관리 분석하는 하드웨어/소프트웨어, 유통과 활용까지 포함
+
+    - ##### 특징
+        * [빅데이터 특징 3V,5V,7V](https://velog.io/@garam/DE-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%ED%8A%B9%EC%A7%953V-5V-7V) 설명 링크
+
+    - ##### 기술
+        * 데이터 생성 -> 수집 -> 저장 -> 분석(EDA,머신러닝, 딥러닝) -> 표현(시각화)
+
+        * 생성 : IoT, 빅데이터 플랫폼
+        * 수집 : 빅데이터 플랫폼 (ex : 하둡, Kafka etc)
+        * 저장 : 빅데이터 플랫폼 (ex : Kafka etc)
+        * 분석, 표현 : 통계, 머신러닝, 딥러닝, 자연어처리, 패턴인식, 이미지 프로세싱(ex : Spark,Power BI, Tablueau etc)
+        * 표현 : Visualization (ex : Power BI, Tablueau etc)
+
+- #### 학습교재
+    - ##### 직장인을 위한 데이터 분석 실무 파이썬, 위키북스
+        * 실습 자료 : https://github.com/Play-with-data/datasalon/tree/master
+
+- #### 데이터 분석 기초
+    - ##### Pandas(데이터 처리 라이브러리)
+    - ##### Numpy(수치해석, 계산용 라이브러리)
+    - ##### Excel,csv용 라이브러리(엑셀,csv,JSON 문서 데이터 로드, 저장 라이브러리)
+    - ##### Selenium(웹 크롤링 자동화 라이브러리)
+    - ##### BeautifulSoup(웹 데이터 정제 라이브러리)
+    - ##### Matplitlib(차트 표현 라이브러리)
+    - ##### Seaborn(시각화 라이브러리)
+    - ##### Folium(지도 시각화 라이브러리)
+    - ##### TensorFlow(머신러닝 라이브러리)
+    - ##### PyTorch(머신러닝,딥러닝 라이브러리)
