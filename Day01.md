@@ -50,7 +50,7 @@
 
     1. Pandas 자료구조
 
-        ![자료구조](https://github.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba001.png)
+        ![자료구조](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba001.png)
 
         - 데이터 프레임, 시리즈
 
