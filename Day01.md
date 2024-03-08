@@ -50,12 +50,11 @@
 
     1. Pandas 자료구조
 
-
-        ![자료구조](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/images/ba001.png)
+        ![자료구조](https://github.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba001.png)
 
         - 데이터 프레임, 시리즈
 
-        - [데이터프레임 사용법](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01_pandas_basic.ipynb)
+        - [데이터프레임 사용법](https://github.com/KangJeongTaek/bigdata-analysis-2024/main/da01_pandas_basic.ipynb)
 
         - 데이터 통합
 
