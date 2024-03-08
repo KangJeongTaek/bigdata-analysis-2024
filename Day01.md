@@ -1,6 +1,14 @@
 ## 1일차 학습
 
 ### 빅데이터 학습
+##### VS Code 문제확인
+1. Jupyter Notebook 실행 속도 느려지는 문제
+    - Ctrl + ,(설정) > Jupyter > Logging: Level -> off or Verbose로 변경(debug 기본값)
+2. Intellisense로 느려짐
+    - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
+    - 필요한 것만 체크해서 사용
+
+
 - #### 빅 데이터 개요
     - ##### 정의
         * 디지털 환경에서 발생하는 대규모의 데이터
@@ -44,3 +52,10 @@
 
 
         ![자료구조](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/images/ba001.png)
+
+        - 데이터 프레임, 시리즈
+
+        - [데이터프레임 사용법](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01_pandas_basic.ipynb)
+
+        - 데이터 통합
+
