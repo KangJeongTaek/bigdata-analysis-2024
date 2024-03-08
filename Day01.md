@@ -24,6 +24,7 @@
 
 - #### 데이터 분석 기초
     - ##### 데이터 분석을 위한 라이브러리 학습
+
         - ###### Pandas(데이터 처리 라이브러리)
         - ###### Numpy(수치해석, 계산용 라이브러리)
         - ###### openpyxl(Excel,csv,JSON용 라이브러리)
@@ -40,4 +41,6 @@
     - 데이터 분석(로딩, 처리) 라이브러리
 
     1. Pandas 자료구조
+
+
         ![자료구조](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/images/ba001.png)
