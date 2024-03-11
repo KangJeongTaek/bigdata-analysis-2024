@@ -38,7 +38,7 @@
         - ###### openpyxl(Excel,csv,JSON용 라이브러리)
         - ###### Selenium(웹 크롤링 자동화 라이브러리)
         - ###### BeautifulSoup(웹 데이터 정제 라이브러리)
-        - ###### Matplitlib(차트 표현 라이브러리)
+        - ###### Matplotlib(차트 표현 라이브러리)
         - ###### Seaborn(시각화 라이브러리)
         - ###### Folium(지도 시각화 라이브러리)
         - ###### TensorFlow(머신러닝 라이브러리)
