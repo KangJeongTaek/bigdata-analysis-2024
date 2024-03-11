@@ -24,7 +24,7 @@
     - Scipy는 과학쪽에 특화된 계산관련 라이브러리
             - DataFrame에서 수치적으로 처리할 게 있으면 numpy로 변경한 다음, 계산 처리한 뒤에 다시 DataFrame으로 변경
 
-- #### Matplotlib / Seaborn
+- #### Matplotlib / Seaborn   [da06_plot_basic](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day02/da06_plot_basic.ipynb)
     - Matplotlib, Seaborn은 데이터 시각화 라이브러리
     - Matplotlib 기본, Seaborn은 Matplot.lib 확장버전
 
