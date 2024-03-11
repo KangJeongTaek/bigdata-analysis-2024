@@ -2,7 +2,7 @@
 
 ### 빅데이터 학습
 ##### VS Code 문제확인
-1. Jupyter Notebook 실행 속도 느려지는 문제
+1. Jupyter Notebook 실행 속도 느려지는 문제 -> Pylance와의 충돌
     - Ctrl + ,(설정) > Jupyter > Logging: Level -> off or Verbose로 변경(debug 기본값)
 2. Intellisense로 느려짐
     - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
@@ -52,9 +52,9 @@
 
         ![자료구조](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba001.png)
 
-        - 데이터 프레임, 시리즈
+    2. 데이터 프레임, 시리즈
 
         - [데이터프레임 사용법](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01/da01_pandas_basic.ipynb)
 
-        - 데이터 통합
+    3. 데이터 통합(merge,append)
 
