@@ -34,7 +34,7 @@
 
         1. 자신의 크롬 버전에 맞는 드라이버 설치
             
-            [!크롬 버전](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba003.png)
+            ![크롬 버전](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba003.png)
 
         2. 특정 폴더 압축해제
 
@@ -43,5 +43,5 @@
 
         4. 셀레니움과 연동, 실행
 
-            [!셀레니움연동](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba004.png)
+            ![셀레니움연동](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba004.png)
 
