@@ -45,7 +45,7 @@
         - ###### PyTorch(머신러닝,딥러닝 라이브러리)
         - ###### Kaggle.com (데이터 분석 및 머신러닝에 대한 학습 플랫폼이자 경쟁할 수 있는 플랫폼)
 
-- #### Pandas 학습 [학습 링크 1](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01/da01_pandas_basic.ipynb) [학습 링크 2](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01/da02_pandas_basic.ipynb) [학습 링크 3](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day02/da03_pandas_basic.ipynb)
+- #### Pandas 학습 [학습 링크 1](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01/da01_pandas_basic.ipynb) / [학습 링크 2](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day01/da02_pandas_basic.ipynb) / [학습 링크 3](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day02/da03_pandas_basic.ipynb)
     - 데이터 분석(로딩, 처리) 라이브러리
 
     1. Pandas 자료구조
