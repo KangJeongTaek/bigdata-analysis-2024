@@ -7,5 +7,8 @@
         - 지도 시각화
             - 카카오 API 사용, https://developers.kakao.com
 
-            [지도 시각화][((https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba009.png)
+            ![지도 시각화](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba009.png)
+
+    - 스타벅스 입지 분석
+        -웹 크롤링, 데이터 수집, 지도 시각화, 분석
 
