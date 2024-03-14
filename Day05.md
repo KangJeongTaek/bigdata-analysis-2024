@@ -7,5 +7,5 @@
         - 지도 시각화
             - 카카오 API 사용, https://developers.kakao.com
 
-            [!지도 시각화](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/day05/data/3_jeju_hotplaces_group.html)
+            [지도 시각화][((https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba009.png)
 
