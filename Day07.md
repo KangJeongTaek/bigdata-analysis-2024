@@ -12,7 +12,7 @@
 
         - 구별 스타벅스 매장 수와 구별 사업체수와 구별 인구수
 
-                ![비교](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba015.png)
+            ![비교](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba015.png)
 
         - 결론
             - 스타벅스는 인구수와 별개로 직장인이 많이 분포하는 구에 매장을 많이 오픈한다.
