@@ -35,12 +35,18 @@
 - ### 빅데이터 학습
     - #### 빅데이터 분석 실습
         - 제주도 핫플레이스 분석
-        - 스타벅스 입지 분석
+        - 스타벅스 입지 선정 분석
 
 
 ## [6일차](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/Day06.md)
 - ### 빅데이터 학습
     - #### 빅데이터 분석 실습
-        - 스타벅스 입지 분석
+        - 스타벅스 입지 선정 분석(계속)
 
     - #### 빅데이터 복습
+
+## [7일차](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/Day07.md)
+- ### 빅데이터 학습
+    - #### 빅데이터 분석 실습
+        - 스타벅스 입지 선정 분석(계속)
+        - 무선 청소기 종류 분석
