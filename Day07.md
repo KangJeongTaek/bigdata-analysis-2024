@@ -18,9 +18,18 @@
             - 스타벅스는 인구수와 별개로 직장인이 많이 분포하는 구에 매장을 많이 오픈한다.
 
     
-    - 무선 청소기 인기상품 비교분석 [학습링크]
+    - 무선 청소기 인기상품 비교분석 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day07/da17_무선청소기_인기상품_분석.ipynb)
         1. 다나와 사이트(https://www.danawa.com)
         2. 무선청소기 검색
         3. 셀레니움으로 웹크롤링
-        
+
+
+## 8일차 학습
+### 빅데이터 학습
+
+- #### 데이터 분석 실습
+    - 무선 청소기 인기상품 비교분석(이어서) [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day07/da17_무선청소기_인기상품_분석.ipynb)
+        1. 다나와 크롤링 중 가격 데이터가 이상한 데이터들
+
+            ![예시](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba016.png)
         
