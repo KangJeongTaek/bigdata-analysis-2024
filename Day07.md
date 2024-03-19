@@ -29,7 +29,19 @@
 
 - #### 데이터 분석 실습
     - 무선 청소기 인기상품 비교분석(이어서) [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day07/da17_무선청소기_인기상품_분석.ipynb)
-        1. 다나와 크롤링 중 가격 데이터가 이상한 데이터들
+        1. 다나와 크롤링 중 들어온 값이 이상한 데이터들
 
             ![예시](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba016.png)
+
+        2. 전처리
+            - 결측치, 이상치 처리(수동,fillna(),dropna() 등)
         
+        3. 무선 청소기 Top 20 분석 시각화
+
+            ![예시](https://raw.githubusercontent.com/KangJeongTaek/bigdata-analysis-2024/main/images/ba017.png)
+
+## 9일차 학습
+### 빅데이터 학습
+
+- #### 데이터 분석 실습
+    - 캐글 관련 학습
