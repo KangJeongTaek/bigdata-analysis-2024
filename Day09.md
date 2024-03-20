@@ -2,7 +2,7 @@
 ### 빅데이터 학습
 
 - #### 빅데이터 실습
-    - OpenAPI 기반 크롤링 실습[학습링크] (https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day09/da19_데이터포털_OpenAPI활용.ipynb)
+    - OpenAPI 기반 크롤링 실습[학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day09/da19_데이터포털_OpenAPI활용.ipynb)
         - [공공데이터포털]https://data.go.kr 링크
 
         ```python
@@ -26,4 +26,6 @@
 
         - 히트맵을 사용한 상관 분석
 
-    - 머신러닝 실습
+    - 와인품질 분석[학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day09/da20_와인품질등급_분석예측.ipynb)
+
+        - [자료 링크](https://archive.ics.uci.edu/dataset/186/wine+quality)
