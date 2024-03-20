@@ -45,13 +45,21 @@
 
     - #### 빅데이터 복습
 
-## [7일차](https://github.com/KangJeogTaek/bigdata-analysis-2024/blob/main/Day07.md)
+## [7일차](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/Day07.md)
 - ### 빅데이터 학습
     - #### 빅데이터 분석 실습
         - 스타벅스 입지 선정 분석(계속)
         - 무선 청소기 종류 분석
 
-## [8일차](https://github.com/KangJeogTaek/bigdata-analysis-2024/blob/main/Day07.md)
+## [8일차](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/Day07.md)
 - ### 빅데이터 학습
     - #### 빅데이터 분석 실습
         - 무선 청소기 종류 분석
+
+## 9일차 학습
+### 빅데이터 학습
+
+- #### 데이터 분석 실습
+    - OpenAPI 기반 크롤링 실습
+    - 통계 분석 리뷰
+    - 머신러닝 실습
