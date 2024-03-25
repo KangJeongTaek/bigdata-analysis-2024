@@ -18,3 +18,13 @@
             - 결졍트리
 
         - 특징 데이터로 유방안 진단 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day11/da25_유방암진단_로지스틱회귀분석.ipynb)
+
+
+
+## 12일차 학습
+### 빅데이터 학습
+
+- #### 머신 러닝 실습
+    - 분류 분석 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day12/da26_유방암진단데이터로_로지스틱회귀분석.ipynb)
+        - 로지스틱 회귀분석
+        - 결정트리
