@@ -27,7 +27,7 @@
     - 분류 분석 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day12/da26_유방암진단데이터로_로지스틱회귀분석.ipynb)
         - 로지스틱 회귀분석
 
-        - 결졍트리 [결과 사진](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day12/result.png)
+        - 결정트리 [결과 사진](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day12/result.png)
 
     - 텍스트 마이닝 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day12/da28_영화예측데이터로_감성예측.ipynb)
         - 영화리뷰 데이터로 감석예측
