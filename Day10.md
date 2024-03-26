@@ -8,7 +8,7 @@
 
         - 히트맵을 사용한 상관 분석
 
-    - 와인품질 분석[학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day10/da21_와인품질등급_분석예측.ipynb)
+    - 와인품질 분석 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day10/da21_와인품질등급_분석예측.ipynb)
 
         - [자료 링크](https://archive.ics.uci.edu/dataset/186/wine+quality) 출처 : 캘리포니아 어바인 대학 연구소
 
@@ -22,7 +22,7 @@
 
 
     
-    - 타이타닉 생존과 다른 요소 와의 상관관계 분석[학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day10/da22_타이타닉생존자_상관분석.ipynb)
+    - 타이타닉 생존과 다른 요소 와의 상관관계 분석 [학습링크](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/day10/da22_타이타닉생존자_상관분석.ipynb)
 
         - seaborn 모듈 내 샘플데이터 셋
 
