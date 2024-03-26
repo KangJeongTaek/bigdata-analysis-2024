@@ -91,7 +91,7 @@
     - 결정트리
     - 텍스트 마이닝, 감성 분석
 
-## [13일차]
+## [13일차](https://github.com/KangJeongTaek/bigdata-analysis-2024/blob/main/Day13.md)
 ### 빅데이터 학습
 
 - #### 머신 러닝 실습
